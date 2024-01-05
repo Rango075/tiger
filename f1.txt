@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 am rango coming from vnb
 
 
 currently am staying in bangalore
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+hi am rango
+am back boys
+=======
+>>>>>>> parent of cbb2299... ms
+=======
+>>>>>>> parent of cbb2299... ms
+new file open
+
+>>>>>>> parent of d2af691... 1-rango
