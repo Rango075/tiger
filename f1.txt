@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hi am rango
 am back boys
+=======
+>>>>>>> parent of cbb2299... ms
